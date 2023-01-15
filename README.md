@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Jaeyun Kim. 
 
-> I am an electrical engineering major at Inha University and I hope to be a backend engineer. But I also know frontend like react.   
+> I am an electrical engineering student at Inha University and I hope to be a backend engineer. But I also know frontend like react.   
 > Lycoris62 comes from my favorite flower, [Lycoris radiata(꽃무릇)](https://en.wikipedia.org/wiki/Lycoris_radiata), and my birthday (June 2nd).   
 > I really like small animals such as squirrels🐿️, hamsters🐹, hedgehogs🦔, and cats😼.
 
