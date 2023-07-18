@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Jaeyun Kim. 
 
 > 안녕하세요. 저는 인하대학교 전기공학과 김재윤입니다.   
-> 저는 백엔드 엔지니어를 희망하고 자바/스프링을 공부하고 있습니다. 
+> 저는 백엔드 엔지니어를 희망하고 자바/스프링을 공부하고 있습니다.   
 
 <br />   
 
@@ -25,5 +25,8 @@
 <br />
 
 ## e.t.c.
+* [링크드인](https://www.linkedin.com/in/wodbs7758/)   
+* [블로그](https://promisingmoon.tistory.com/)
+   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs7758)](https://solved.ac/wodbs7758/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycoris62&layout=compact&hide=C,Assembly,Shell,Makefile,Perl,SmPL,Roff,Yacc,CMake)]((https://github.com/anuraghazra/github-readme-stats))
