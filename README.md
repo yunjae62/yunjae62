@@ -23,10 +23,6 @@
 * **2023년**
    * [INHA SW NET-Zero 공동해커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNTczNyUyRmFydGNsVmlldy5kbyUzRg%3D%3D) - 장려상 수상 (팀명 CORS)
 <br />
-
-## e.t.c.
-* [링크드인](https://www.linkedin.com/in/wodbs7758/)   
-* [블로그](https://promisingmoon.tistory.com/)
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs7758)](https://solved.ac/wodbs7758/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycoris62&layout=compact&hide=C,Assembly,Shell,Makefile,Perl,SmPL,Roff,Yacc,CMake)]((https://github.com/anuraghazra/github-readme-stats))
