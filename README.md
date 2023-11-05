@@ -11,6 +11,19 @@
 
 <br />   
 
+## [기술 스택]
+#### frontend
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![REACT](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) 
+   
+#### backend
+![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![SPRING BOOT](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br />   
+
 ## [출시 서비스] 
 ### 1. [적정주가 계산기 앱](https://play.google.com/store/apps/details?id=com.barami62.proferPriceAppFree)
 - S-RIM 기반으로 재무제표를 분석하여 적정주가를 5초 이내로 추정하는 앱. 
@@ -43,19 +56,6 @@
 - SQL개발자(SQLD) (2023.04.08) 
 - 매경TEST(경제경영 상식시험) 최우수 (2021.01.09)
 - 컴퓨터활용능력 1급 (2019.05.31)
-
-<br />   
-
-## [기술 스택]
-#### frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![REACT](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) 
-   
-#### backend
-![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
-![SPRING BOOT](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br />   
 
