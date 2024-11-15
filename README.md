@@ -66,6 +66,6 @@
 <br />
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodbs7758)](https://solved.ac/wodbs7758/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycoris62&layout=compact&hide=C,Assembly,Shell,Makefile,Perl,SmPL,Roff,Yacc,CMake)]((https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjae62&layout=compact&hide=C,Assembly,Shell,Makefile,Perl,SmPL,Roff,Yacc,CMake)]((https://github.com/anuraghazra/github-readme-stats))
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flycoris62&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
