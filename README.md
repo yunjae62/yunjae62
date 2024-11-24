@@ -6,6 +6,10 @@
 - 2건의 교육 프로그램에서 총 8회 팀장을 맡았고, 10회 발표를 진행하면서 성공적으로 프로젝트를 끝냈습니다.
     - 이를 위해 코드 리뷰, 1데이&1이슈&1PR 스크럼, 문서화를 도입하여 체계적으로 프로젝트가 진행되도록 했습니다.
 
+## 📃 기록
+- [블로그](https://promisingmoon.tistory.com/75?utm_source=github&utm_medium=referral&utm_campaign=job_search)
+- [백준](https://solved.ac/profile/wodbs7758)
+
 ## 🛠 기술 스택
 #### frontend
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,10 +53,6 @@
    - React native / AWS Lambda, DynamoDB
 - 역할 :
    - 기획, 디자인, 개발, 출시, 운영, 고객응대, 마케팅 
-
-## 📃 기록
-- [블로그](https://promisingmoon.tistory.com/75)
-- [백준](https://solved.ac/profile/wodbs7758)
 
 ## 📚 교육 
 - 내일배움캠프 자바/스프링 심화 캠프 1기 수료 (24.07 ~ 24.10) (12주)
