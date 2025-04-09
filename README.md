@@ -1,13 +1,13 @@
 ## 🖐 소개
-**코드로 사회에 가치를 더하는 개발자 김재윤 입니다.**
+**코드로 가치를 더하는 개발자 김재윤 입니다.**
 
-- 지식을 쌓고 문서화하여 공유하는 것을 즐깁니다. 2년간 4,500 커밋을 하고 210건의 글을 적어서 3,400회의 누적 조회수를 기록했습니다.
+- 지식을 쌓고 문서화하여 공유하는 것을 즐깁니다. 2년간 5,000 커밋을 하고 210건의 글을 적어서 7,400회의 누적 조회수를 기록했습니다.
 - 3개의 프로젝트에서 앱기획/개발/출시/운영/마케팅/고객응대까지 전 과정을 경험하면서 총 5,000건의 다운로드로 시간을 아껴드렸습니다.
 - 2건의 교육 프로그램에서 총 8회 팀장을 맡았고, 10회 발표를 진행하면서 성공적으로 프로젝트를 끝냈습니다.
     - 이를 위해 코드 리뷰, 1데이&1이슈&1PR 스크럼, 문서화를 도입하여 체계적으로 프로젝트가 진행되도록 했습니다.
 
 ## 📃 기록
-- [블로그](https://promisingmoon.tistory.com/75?utm_source=github&utm_medium=referral&utm_campaign=job_search)
+- [블로그](https://promisingmoon.tistory.com?utm_source=github&utm_medium=referral&utm_campaign=job_search)
 - [백준](https://solved.ac/profile/wodbs7758)
 
 ## 🛠 기술 스택
@@ -21,6 +21,26 @@
 ![SPRING BOOT](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REDIS](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+## 🏢 경력 
+#### 애스크(AESK)
+- 직무 : 웹 개발자 인턴
+- 기간 : 2025. 03. 04 ~ 2025. 03. 28 (4주, 주 5일, 일 7시간 근무)
+- 참여 프로그램 : [스파르타코딩클럽 바로인턴](https://intellipick.spartacodingclub.kr/student-baro-intern)
+- 주요 업무 : 
+    - 프론트엔드, 백엔드, 인프라 등 전반적인 웹서비스 고도화
+    - 국제화(i18n) 적용
+    - 채널톡 도입
+    - 백오피스 개선
+- 주요 성과 : 
+    - 구글 페이지 번역 → next-intl 국제화 전환 : 평균 렌더링 속도 70% 개선 (2.34s → 0.71s)
+    - PNG → WebP 포맷 변경 : 퍼블릭 이미지 총 용량 95% 절감 (평균 2.46MB → 128KB)
+    - 멀티 스테이지 빌드 + .dockerignore 적용 : Docker 이미지 용량 49% 감소 (1.99GB → 1.01GB)
+    - Axios 인터셉터 적용 : 인증 로직 중복 제거로 7개 페이지에서 141줄 코드 절감
+    - SWR 도입 : 요청/로딩/에러 처리 로직 단순화로 7개 페이지에서 93줄 코드 절감
+    - AWS SES 연동 : 설문 응답 발생 시 관리자에게 자동 이메일 발송 기능 구현
+    - AWS Translate 적용 : 매물 등록 시 영문 필드 자동 완성 기능 구현
+    - 개발 문서 및 온보딩 가이드 200줄 이상 작성
 
 ## 💻 프로젝트 
 #### [🔗](https://github.com/autumn-radiata/radiata-backend) 그대가 기다리던 가을이 왔네요 
@@ -63,8 +83,8 @@
 
 ## 🏆 취득 자격증
 - 정보처리기사 (2024.09.10)
-- 데이터분석 준전문가(ADsP) (2023.06.17)
-- SQL개발자(SQLD) (2023.04.08) 
+- 데이터분석 준전문가(ADsP) (2022.06.17)
+- SQL개발자(SQLD) (2022.04.08) 
 - 매경TEST(경제경영 상식시험) 최우수 (2021.01.09)
 - 컴퓨터활용능력 1급 (2019.05.31)
 
