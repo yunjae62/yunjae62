@@ -29,15 +29,13 @@
 - 참여 프로그램 : [스파르타코딩클럽 바로인턴](https://intellipick.spartacodingclub.kr/student-baro-intern)
 - 주요 업무 : 
     - 프론트엔드, 백엔드, 인프라 등 전반적인 웹서비스 고도화
-    - 국제화(i18n) 적용
-    - 채널톡 도입
-    - 백오피스 개선
+    - 국제화 적용, 채널톡 도입, 백오피스 개선
 - 주요 성과 : 
-    - 구글 페이지 번역 → next-intl 국제화 전환 : 평균 렌더링 속도 70% 개선 (2.34s → 0.71s)
-    - PNG → WebP 포맷 변경 : 퍼블릭 이미지 총 용량 95% 절감 (평균 2.46MB → 128KB)
-    - 멀티 스테이지 빌드 + .dockerignore 적용 : Docker 이미지 용량 49% 감소 (1.99GB → 1.01GB)
-    - Axios 인터셉터 적용 : 인증 로직 중복 제거로 7개 페이지에서 141줄 코드 절감
-    - SWR 도입 : 요청/로딩/에러 처리 로직 단순화로 7개 페이지에서 93줄 코드 절감
+    - [구글 페이지 번역 → next-intl 국제화 전환 : 평균 렌더링 속도 70% 개선 (2.34s → 0.71s)](https://promisingmoon.tistory.com/233)
+    - [PNG → WebP 포맷 변경 : 퍼블릭 이미지 총 용량 95% 절감 (평균 2.46MB → 128KB)](https://promisingmoon.tistory.com/232)
+    - [멀티 스테이지 빌드 + .dockerignore 적용 : Docker 이미지 용량 49% 감소 (1.99GB → 1.01GB)](https://promisingmoon.tistory.com/229)
+    - [Axios 인터셉터 적용 : 인증 로직 중복 제거로 7개 페이지에서 141줄 코드 절감](https://promisingmoon.tistory.com/231)
+    - [SWR 도입 : 요청/로딩/에러 처리 로직 단순화로 7개 페이지에서 93줄 코드 절감](https://promisingmoon.tistory.com/230)
     - AWS SES 연동 : 설문 응답 발생 시 관리자에게 자동 이메일 발송 기능 구현
     - AWS Translate 적용 : 매물 등록 시 영문 필드 자동 완성 기능 구현
     - 개발 문서 및 온보딩 가이드 200줄 이상 작성
